@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LogaN4ik
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning VBA, Python, PoSh, Bash, C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nornickel
 - 📫 How to reach me t.me/logan4ik
 
 <!---
